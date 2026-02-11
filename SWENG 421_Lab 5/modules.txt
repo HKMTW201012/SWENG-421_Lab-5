@@ -1,0 +1,7 @@
+﻿SWENG_421_Lab_5.Modules.Initialize
+SWENG_421_Lab_5.Modules.Sum
+SWENG_421_Lab_5.Modules.Subtract
+SWENG_421_Lab_5.Modules.Product
+SWENG_421_Lab_5.Modules.Power
+SWENG_421_Lab_5.Modules.Square
+SWENG_421_Lab_5.Modules.Log
